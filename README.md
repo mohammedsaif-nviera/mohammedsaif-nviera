@@ -75,7 +75,7 @@
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=moahmmedsaif-nviera&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=mohammedsaif-nviera&show_icons=true&theme=synthwave&text_color=ffbb00&hide_border=true&cache_seconds=1800&locale=en"
     alt="Mohammed Saif - Nviera"
   />
 </p>
